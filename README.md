@@ -1,7 +1,7 @@
 ## Hi there!👋 Eu sou o Pedro Gabriel!
 
 - 🔭 I’m currently working administration
-- 🌱 I’m currently learning java spring
+- 🌱 I’m currently learning Spring Boot
 - 📫 How reach me: amorimjeronimo.gabriel@outlook.com
 - 😄 Pronouns: ele/dele
 
