@@ -42,7 +42,7 @@
   <ul style="list-style: none; padding: 0; margin: 0;">
     <li style="display: flex; align-items: center; margin-bottom: 10px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" height="24" style="margin-right: 10px;">
-      Spring ❤️
+      Spring 
     </li>
   </ul>
 </div>
